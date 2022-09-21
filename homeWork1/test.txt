@@ -1,0 +1,18 @@
+void Foo(){
+}
+
+int Foo(){
+  return 10;
+
+}
+
+int Foo(int a,int b){
+  if a = 2;
+  if b = 8;
+  if result = a+b;
+  return result;
+
+
+
+}
+
